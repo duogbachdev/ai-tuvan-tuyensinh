@@ -1,0 +1,3 @@
+g4f
+streamlit
+curl_cffi

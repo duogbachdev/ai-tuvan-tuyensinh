@@ -1,0 +1,34 @@
+{
+  "2025-04-20": [
+    {
+      "role": "User",
+      "message": "chào bạn",
+      "timestamp": "14:45:09"
+    },
+    {
+      "role": "Assistant",
+      "message": "Không nhận được phản hồi tiếng Việt phù hợp từ FreeGpt",
+      "timestamp": "14:45:09"
+    },
+    {
+      "role": "User",
+      "message": " Làm thế nào để tìm hiểu thông tin tuyển sinh của Trường?",
+      "timestamp": "14:45:27"
+    },
+    {
+      "role": "Assistant",
+      "message": "Để tìm hiểu thông tin tuyển sinh của Trường Đại học Công nghệ Thông tin và Truyền thông, bạn có thể truy cập website https://tuyensinh.ictu.edu.vn hoặc fanpage Facebook https://www.facebook.com/ictu.vn.  Thông tin chi tiết về các phương thức xét tuyển, thời gian đăng ký và các yêu cầu khác cũng được cung cấp trên các trang web này.\n",
+      "timestamp": "14:45:27"
+    },
+    {
+      "role": "User",
+      "message": "chào bạn",
+      "timestamp": "14:45:53"
+    },
+    {
+      "role": "Assistant",
+      "message": "Không nhận được phản hồi tiếng Việt phù hợp từ FreeGpt",
+      "timestamp": "14:45:53"
+    }
+  ]
+}
